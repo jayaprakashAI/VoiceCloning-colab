@@ -6,5 +6,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jayaprakashAI/VoiceCloning-colab/blob/main/VoiceCloning_colab.ipynb) | OpenVoice_colab
 
 ### 🧬 Code
-https://github.com/myshell-ai/OpenVoice
+https://github.com/jayaprakashAI/VoiceCloning
 
