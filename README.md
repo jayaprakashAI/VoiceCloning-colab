@@ -1,6 +1,3 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
-🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 ### 🦒 Colab
 
@@ -11,12 +8,3 @@
 ### 🧬 Code
 https://github.com/myshell-ai/OpenVoice
 
-### 📄 Paper
-https://arxiv.org/abs/2312.01479
-
-### 🌐 Page
-https://research.myshell.ai/open-voice
-
-### 🖼 Output
-
-https://github.com/camenduru/OpenVoice-colab/assets/54370274/58bf6867-4011-4611-9160-91c4b8448e00
